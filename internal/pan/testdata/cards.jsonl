@@ -1,0 +1,10 @@
+{"pan":"4111111111111111","luhn_valid":true,"masked":"411111******1111"}
+{"pan":"5555555555554444","luhn_valid":true,"masked":"555555******4444"}
+{"pan":"378282246310005","luhn_valid":true,"masked":"378282*****0005"}
+{"pan":"6011111111111117","luhn_valid":true,"masked":"601111******1117"}
+{"pan":"4000000000000002","luhn_valid":true,"masked":"400000******0002"}
+{"pan":"4242424242424242","luhn_valid":true,"masked":"424242******4242"}
+{"pan":"424242424242","luhn_valid":true,"masked":"424242**4242"}
+{"pan":"4111111111111112","luhn_valid":false,"masked":"411111******1112"}
+{"pan":"123456789012","luhn_valid":false,"masked":"123456**9012"}
+{"pan":"4111111111111111111","luhn_valid":false,"masked":"411111*********1111"}
